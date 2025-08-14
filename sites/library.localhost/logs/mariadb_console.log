@@ -1,0 +1,14 @@
+_HiStOrY_V2_
+select\040name\040from\040'tabUser';
+select\040name\040from\040tabUser;
+bench\040--site\040library.localhost\040backup
+desc\040tabArticle;
+select\040*\040from\040tabArticle;
+SHOW\040TABLES\040LIKE\040'tabArticle';
+SELECT\040name\040FROM\040tabArticle\040LIMIT\0401;
+SELECT\040name,\040modified,\040creation\040FROM\040tabArticle\040LIMIT\0405;
+DESC\040tabArticle;
+select\040*\040from\040tabArticle;
+git\040status\040-u
+desc\040tabArticle;
+select\040*\040from\040tabArticle;
